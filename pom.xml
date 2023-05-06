@@ -27,7 +27,7 @@
 		<netty.version>4.1.90.Final</netty.version>
 		<gson.version>2.10.1</gson.version>
 
-		<spring.version>6.0.7</spring.version>
+		<spring.version>6.0.8</spring.version>
 		<spring-boot.version>2.7.9</spring-boot.version>
 
 		<mybatis-spring-boot-starter.version>2.3.0</mybatis-spring-boot-starter.version>
